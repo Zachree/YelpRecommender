@@ -9,7 +9,7 @@ UI:
 
 ![image](https://user-images.githubusercontent.com/97318794/175034671-7f62b887-1a34-473f-aad1-949ee33e7235.png)
 
-Recommended Businesses (Panera Bread selected for this):
+Recommended Businesses (Panera Bread selected):
 
 ![image](https://user-images.githubusercontent.com/97318794/175035599-6529c006-01a7-49c0-8836-5174b3d9beba.png)
 
