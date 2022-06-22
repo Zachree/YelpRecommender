@@ -1,5 +1,5 @@
 # YelpRecommender
-This program uses a GUI to list 10 businesses from a dataset of some thousands of businesses, where any of them may be selected to display 5 "similar" businesses. These 10 can be refreshed. Additionally, the business-similarity clusters can be generated - displaying the medoid center-point for all 5 clusters. Selecting a medoid displays the business geographically nearest to the medoid and the all businesses in its cluster.
+This program uses a GUI to list 10 businesses from a dataset of some thousands of businesses, where any of them may be selected to display 5 "similar" businesses. These 10 can be refreshed. Additionally, the business-similarity clusters can be generated - displaying the medoid center-point for all 5 clusters. Selecting a medoid displays the business geographically nearest to the medoid and all the businesses in its cluster.
 
 UI:
 
