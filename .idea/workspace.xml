@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a5efe025-744c-4e06-b189-18cf0a4e0529" name="Changes" comment="Initial Commit">
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/zachf.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/YelpRecommenderBTree.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/btree/BTree$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/btree/BTree$Seed.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/btree/BTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/btree/BusinessPickerGUI$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/btree/BusinessPickerGUI$10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/btree/BusinessPickerGUI$11.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/btree/BusinessPickerGUI$12.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/btree/BusinessPickerGUI$13.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/btree/BusinessPickerGUI$14.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/btree/BusinessPickerGUI$15.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/btree/BusinessPickerGUI$16.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/btree/BusinessPickerGUI$17.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/btree/BusinessPickerGUI$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/btree/BusinessPickerGUI$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/btree/BusinessPickerGUI$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/btree/BusinessPickerGUI$5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/btree/BusinessPickerGUI$6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/btree/BusinessPickerGUI$7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/btree/BusinessPickerGUI$8.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/btree/BusinessPickerGUI$9.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/btree/BusinessPickerGUI.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/btree/BusinessRecommender$IDCoord.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/btree/BusinessRecommender$Medoid.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/btree/BusinessRecommender$Neighbor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/btree/BusinessRecommender$NeighborSet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/btree/BusinessRecommender$WordScore.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/btree/BusinessRecommender$business.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/btree/BusinessRecommender$review.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/btree/BusinessRecommender.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/btree/Edge.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/btree/Graph.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/btree/HashTable$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/btree/HashTable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/btree/MurmurHash2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/btree/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/btree/PQ.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/btree/QuickUnion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/btree/TermFreqHT$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/btree/TermFreqHT.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/btree/WordFreqHT$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/btree/WordFreqHT.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/btree/tests/ClusterTest$Cluster.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/btree/tests/ClusterTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/btree/tests/QuickUnionTest$1Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/btree/tests/QuickUnionTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/btree/tests/SerializeTest$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/btree/tests/SerializeTest$subNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/btree/tests/SerializeTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/btree/tests/StringSimilarityTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hashtable.ser" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/commons-codec-1.11.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/location-less csv businesses/yelp_academic_dataset_business.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quickunion.ser" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/btree/BTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/btree/BusinessPickerGUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/btree/BusinessRecommender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/btree/HashTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/btree/MurmurHash2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/btree/QuickUnion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/btree/TermFreqHT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/btree/WordFreqHT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/btree/tests/ClusterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/btree/tests/QuickUnionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/btree/tests/SerializeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/btree/tests/StringSimilarityTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/termfreqht.ser" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tree.ser" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wordfreqht.ser" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yelp_academic_dataset_business_w_locations.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yelp_academic_dataset_review.csv" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2AbTWAY5QMwdjbP2s9EXh21CaSe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/zachf/Programming Projects/ParallelGeneticAlgorithm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "Errors"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.btree.BusinessPickerGUI">
+    <configuration name="QuickUnionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="btree.tests.QuickUnionTest" />
+      <module name="YelpRecommenderBTree" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="btree.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="btree.BusinessPickerGUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="btree.BusinessPickerGUI" />
+      <module name="YelpRecommenderBTree" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="btree.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.btree.BusinessPickerGUI" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a5efe025-744c-4e06-b189-18cf0a4e0529" name="Changes" comment="" />
+      <created>1655277325802</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1655277325802</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
